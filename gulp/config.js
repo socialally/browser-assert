@@ -18,9 +18,7 @@ var config = {
   clean: [
     './instrument',
     './coverage',
-    './test/spec.*',
-    './dist/*.js',
-    './dist/*.js.map',
+    './test/spec.*'
   ],
   spec: {
     main: './test/spec/index.js',
