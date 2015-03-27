@@ -1,6 +1,6 @@
 {
   "name": "browser-assert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Featherweight assert module.",
   "author": "muji <noop@xpm.io>",
   "repository": {
@@ -58,7 +58,7 @@
     "base": "https://github.com/socialally/browser-assert",
     "partial": [
       {
-        "inc" :"introduction.md"
+        "inc": "introduction.md"
       },
       {
         "req": "assert.js",
