@@ -17,6 +17,8 @@ Table of Contents
 Assert
 ======
 
+> `Stability: stable`.
+
 Featherwight `assert` function for the browser and [node](http://nodejs.org) designed to work with [browserify](http://browserify.org).
 
 ```javascript
