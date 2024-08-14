@@ -3,6 +3,7 @@
   "description": "Featherweight assert module",
   "version": "1.2.1",
   "stability": "stable",
+  "license": "MIT",
   "author": "muji <noop@xpm.io>",
   "repository": {
     "type": "git",
