@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/socialally/browser-assert.git"
   },
+  "license": "MIT",
   "main": "lib/assert.js",
   "devDependencies": {
     "browser-sync": "~2.8.2",
